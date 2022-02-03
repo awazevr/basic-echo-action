@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/awazevr/basic-echo-action/compare/v1.0.3...v1.0.4) (2022-02-03)
+
+
+### Bug Fixes
+
+* updated README.md with correct information ([1f790c0](https://github.com/awazevr/basic-echo-action/commit/1f790c022bfd7863a7b449684251d8272fe40985))
+
 ## [1.0.3](https://github.com/awazevr/basic-echo-action/compare/v1.0.2...v1.0.3) (2022-02-03)
 
 
