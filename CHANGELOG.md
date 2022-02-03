@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/awazevr/basic-echo-action/compare/v1.0.2...v1.0.3) (2022-02-03)
+
+
+### Bug Fixes
+
+* add name and description for the action ([2683065](https://github.com/awazevr/basic-echo-action/commit/268306520ae68f82cd01ea2f83468e5d6a01f2d5))
+
 ## [1.0.2](https://github.com/awazevr/basic-echo-action/compare/v1.0.1...v1.0.2) (2022-02-03)
 
 
