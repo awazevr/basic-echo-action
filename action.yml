@@ -1,3 +1,5 @@
+name: "Echoes an input in the workflow"
+description: "Echoing input..."
 inputs:
   your_name:
     description: 'Your name'
