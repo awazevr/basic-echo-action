@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/awazevr/basic-echo-action/compare/v1.0.1...v1.0.2) (2022-02-03)
+
+
+### Bug Fixes
+
+* tried new formatted action ([8e2ffd8](https://github.com/awazevr/basic-echo-action/commit/8e2ffd8b15a2dc1b457f562cc773a0ef68584fb8))
+
 ## [1.0.1](https://github.com/awazevr/basic-echo-action/compare/v1.0.0...v1.0.1) (2022-02-03)
 
 
