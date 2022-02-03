@@ -1,11 +1,12 @@
 name: "Basic echo action"
 description: "Echo action"
+
 inputs:
-your_name:
-description: 'Your name'
-default: 'Ethan'
+  your_name:
+  description: 'Your name'
+  default: 'Ethan'
 runs:
-using: "composite"
-steps:
-- run: echo hello ${{ inputs.your_name }}
-shell: bash
+  using: "composite"
+    steps:
+    - run: echo hello ${{ inputs.your_name }}
+      shell: bash
