@@ -1,3 +1,11 @@
+## [1.0.5](https://github.com/awazevr/basic-echo-action/compare/v1.0.4...v1.0.5) (2022-02-03)
+
+
+### Bug Fixes
+
+* backed out node mods updates ([9d23686](https://github.com/awazevr/basic-echo-action/commit/9d236865f81eedbf4cb8036c2c0e4a2013e025dc))
+* updated node-fetch ([6cd7249](https://github.com/awazevr/basic-echo-action/commit/6cd72494e41897d708f03c6af6606f80df9e6f15))
+
 ## [1.0.4](https://github.com/awazevr/basic-echo-action/compare/v1.0.3...v1.0.4) (2022-02-03)
 
 
