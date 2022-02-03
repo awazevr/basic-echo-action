@@ -1,19 +1,11 @@
-name: "Basic action template"
-description: "Checkout and scanning ..."
+name: "Basic echo action"
+description: "Echo action"
 inputs:
-  target:
-    description: 'Parameter 1'
-    required: true
-
-
+your_name:
+description: 'Your name'
+default: 'Ethan'
 runs:
-  using: "composite"
-  steps:
-    - name: Checkout repo
-      uses: actions/checkout@v2
-    - name: Provide a name for this template
-      uses: awazevr/basic-action-template@v1.0.0
-      with:
-        target: ${{ inputs.target }} 
-
-    
+using: "composite"
+steps:
+- run: echo hello ${{ inputs.your_name }}
+shell: bash
